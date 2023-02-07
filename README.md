@@ -20,7 +20,7 @@ The service is intentionally build with 100% python builtin modules to ensure ze
 **Error Hanlding**
 - The service will detect bad calls and malformed csv files thus:
   - Missing payload
-  - CSV data Lacking expected the total count of columns: 5
+  - CSV data lacking expected total count of columns: 5
   - Missing data in unit price
   - Wrong data in date and time columns
   
