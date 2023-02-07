@@ -18,7 +18,7 @@ The service is intentionally build with 100% python builtin modules to ensure ze
 - CORS is enabled for prelight calls.
 
 **Error Hanlding**
-- The service will detect bad calls and malformed csv files that thus:
+- The service will detect bad calls and malformed csv files thus:
   - Missing payload
   - CSV data Lacking expected the total count of columns: 5
   - Missing data in unit price
