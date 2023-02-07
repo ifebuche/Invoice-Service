@@ -1,4 +1,4 @@
-app: distinctai-serverless
+app: serverless-fesh
 service: invoice
 
 frameworkVersion: '3'
