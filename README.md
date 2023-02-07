@@ -1,7 +1,7 @@
 # invoice bei Fesh
 
 #This is a RESTful serverless microservice app built on AWS Lambda and API Gateway, and managed + deployed with [Serverless Framework](https://www.serverless.com/). Standard HTTP status codes are in use. This is meant to support agile development by allowing micro ownership of the service.
-The service intentionally build with 100% python builtin modules to ensure zero depency issues.
+The service is intentionally build with 100% python builtin modules to ensure zero depency issues.
 
 **Deploy**
 - To deploy and run this app on AWS, [setup](https://www.serverless.com/framework/docs/getting-started) Serverless Framework and add your AWS keys
